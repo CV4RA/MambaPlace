@@ -140,4 +140,4 @@ python -m evaluation.pipeline --base_path ./data/k360_30-10_scG_pd10_pc4_spY_all
 We borrowed some code from [Textpos](https://openaccess.thecvf.com/content/CVPR2022/html/Kolmet_Text2Pos_Text-to-Point-Cloud_Cross-Modal_Localization_CVPR_2022_paper.html) and [Text2Loc](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.html), and we would like to thank them for their help!
 
 ## Note
-We encourage anyone to use our code for scientific research, but please cite [our paper](https://arxiv.org/abs/2408.15740) when doing so. Thank you!🙇‍
+We encourage anyone to use our code for further research, but please cite [our paper](https://arxiv.org/abs/2408.15740) when doing so. Thank you!🙇‍
