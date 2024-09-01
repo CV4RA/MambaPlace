@@ -1,5 +1,5 @@
 # MambaPlace
-This repository is the official implementation of MambaPlace [paper](https://arxiv.org/abs/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
+This repository is the official implementation of MambaPlace [paper](https://arxiv.org/pdf/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
 
 ###  Introduction
   In future smart cities, autonomous vehicles, drones, and intelligent logistics systems will rely heavily on accurate localization from human language descriptions for effective path planning. Traditional visual place recognition (VPR) methods, which depend on cameras or radar to extract features from 2D images or point clouds, struggle with efficiency in human-computer interaction and lack precision under varying environmental conditions. A promising alternative is the text-to-point-cloud localization approach, which enables accurate localization without requiring proximity to the location and is resilient to changes in the natural environment. However, this method faces challenges such as ambiguous language descriptions and similar descriptions for different positions within the same region. Existing solutions, like Text2Pos and Text2loc, have made progress but still fall short in fully integrating multimodal data. To address these issues, we propose the Mamba model, a unified approach using Selective State Space Models (SSM) to enhance feature representation and improve localization accuracy.
@@ -140,4 +140,4 @@ python -m evaluation.pipeline --base_path ./data/k360_30-10_scG_pd10_pc4_spY_all
 We borrowed some code from [Textpos](https://openaccess.thecvf.com/content/CVPR2022/html/Kolmet_Text2Pos_Text-to-Point-Cloud_Cross-Modal_Localization_CVPR_2022_paper.html) and [Text2Loc](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_Text2Loc_3D_Point_Cloud_Localization_from_Natural_Language_CVPR_2024_paper.html), and we would like to thank them for their help!
 
 ## Note
-We encourage anyone to use our code for further research, but please cite [our paper](https://arxiv.org/abs/2408.15740) when doing so. Thank you!🙇‍
+We encourage anyone to use our code for further research, but please cite [our paper](https://arxiv.org/pdf/2408.15740) when doing so. Thank you!🙇‍
