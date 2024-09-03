@@ -145,9 +145,9 @@ We borrowed some code from [Textpos](https://openaccess.thecvf.com/content/CVPR2
 ## Note
 We encourage anyone to use our code for further research, but please cite [our paper](https://arxiv.org/pdf/2408.15740) when doing so. Thank you!🙇‍
 
-@article{shang2024mambaplace,
-  title={MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms},
-  author={Shang, Tianyi and Li, Zhenyu and Pei, Wenhao and Xu, Pengjie and Deng, ZhaoJun and Kong, Fanchen},
-  journal={arXiv preprint arXiv:2408.15740},
+@article{Mambaplace,\\
+  title={MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms},\\
+  author={Shang, Tianyi and Li, Zhenyu and Pei, Wenhao and Xu, Pengjie and Deng, ZhaoJun and Kong, Fanchen},\\
+  journal={arXiv preprint arXiv:2408.15740},\\
   year={2024}
 }
