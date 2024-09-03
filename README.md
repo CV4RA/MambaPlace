@@ -1,4 +1,4 @@
-[![Build Status](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose]
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal)
 # MambaPlace
 This repository is the official implementation of MambaPlace [paper](https://arxiv.org/pdf/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
 
