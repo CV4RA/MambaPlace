@@ -1,3 +1,4 @@
+[![Build Status](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose]
 # MambaPlace
 This repository is the official implementation of MambaPlace [paper](https://arxiv.org/pdf/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
 
