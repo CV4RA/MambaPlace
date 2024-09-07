@@ -1,8 +1,8 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
+
 <p align="center">
 <h1 align="center">📍MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms</h1>
- 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mambaplace-text-to-point-cloud-cross-modal/visual-place-recognition-on-kitti360pose)](https://paperswithcode.com/sota/visual-place-recognition-on-kitti360pose?p=mambaplace-text-to-point-cloud-cross-modal) <a href="https://arxiv.org/pdf/2408.15740"><img src="https://img.shields.io/badge/Paper-pdf-<COLOR>.svg?style=flat-square" /></a> 
-<p align="center">
+ <p align="center">
 <h1 align="center">Tianyi Shang, Zhenyu Li*, Wenhao Pei, Pengjie Xu, ZhaoJun Deng, and Fanchen Kong</h1>
 </p>
 
