@@ -5,6 +5,7 @@
 <p align="center">
 Tianyi Shang, Zhenyu Li, Wenhao Pei, Pengjie Xu, ZhaoJun Deng, and Fanchen Kong
 </p>
+
 This repository is the official implementation of MambaPlace [paper](https://arxiv.org/pdf/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
 
 ###  Introduction
