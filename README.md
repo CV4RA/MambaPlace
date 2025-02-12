@@ -151,7 +151,7 @@ We encourage anyone to use our code for further research, but please cite [our p
 
 @article{Mambaplace,
   title={MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms},
-  author={Shang, Tianyi, Li, Zhenyu*, Pei, Wenhao, Xu, Pengjie, Deng, ZhaoJun, Kong, Fanchen},
+  author={Shang, Tianyi, Li, Zhenyu*, Xu, Pengjie},
   journal={arXiv preprint arXiv:2408.15740},
   year={2024}
 }
