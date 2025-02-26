@@ -4,7 +4,8 @@
 <h1 align="center">MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms</h1>
  <p align="center">
 Tianyi Shang, Zhenyu Li*, Pengjie Xu, Jinwei Qiao
-
+</p>
+<p align="center">
 Qilu University of Technology (Shandong Academy of Sciences)
 </p>
 
