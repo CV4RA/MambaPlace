@@ -4,6 +4,8 @@
 <h1 align="center">MambaPlace: Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms</h1>
  <p align="center">
 Tianyi Shang, Zhenyu Li*, Pengjie Xu, Jinwei Qiao
+
+Qilu University of Technology (Shandong Academy of Sciences)
 </p>
 
 This repository is the official implementation of MambaPlace [paper](https://arxiv.org/pdf/2408.15740), also see another [implement](https://github.com/nuozimiaowu/MambaPlace/tree/main).  🔥🔥🔥
